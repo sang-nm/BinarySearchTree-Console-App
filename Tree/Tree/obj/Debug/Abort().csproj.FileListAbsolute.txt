@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Abort()\bin\Debug\Abort().exe.config
+E:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Abort()\bin\Debug\Abort().exe
+E:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Abort()\bin\Debug\Abort().pdb
+E:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Abort()\obj\Debug\Abort().csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Abort()\obj\Debug\Abort().exe
+E:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Abort()\obj\Debug\Abort().pdb
